@@ -1,7 +1,7 @@
 # data_science_bootcamp-8
 My data portfolio for data analyst role
 
-## What did I learn from this bootcamp
+## What did I learn from this bootcamp ?
 I learn a lot of stuff related to data science skills. This bootcamp has 10 sprints as follow.
 
 - Intro to data science
@@ -15,3 +15,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spri
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/nutthaphol-kongngernngam-946434246/
